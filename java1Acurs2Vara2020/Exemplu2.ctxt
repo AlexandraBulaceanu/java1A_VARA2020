@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Exemplu2
+comment0.text=\r\n\ \ Se\ da\ un\ caracter(anotimp).\ In\ functie\ de\ acesta,\ se\ vor\ afisa\ diferite\ mesaje\ in\ consola\:\r\n\ \ 'v'(vara)\ ->\ Este\ soare\r\n\ \ 'i'(iarna)\ ->\ este\ frig\r\n\ \ 'p'(primavara),\ t(toamna)\ ->\ ploua\r\n\ \ orice\ altceva\ ->\ nu\ exista\ anotimpul\r\n\ \ \r\n\ \ kahoot.it\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
