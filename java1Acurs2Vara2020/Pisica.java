@@ -11,4 +11,8 @@ public class Pisica{
         this.culoare = culoare;
         this.greutate = greutate;
     }
+    
+    void spuneMiau(){
+        System.out.println("Miau! Numele meu este "+this.nume);
+    }
 }
