@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Comanda()
+comment1.params=
+comment1.target=java.util.List\ getPizza()
+comment2.params=
+comment2.target=Comanda\ getInstance()
+comment3.params=p
+comment3.target=void\ adaugaPizza(Pizza)
+comment4.params=
+comment4.target=void\ sorteaza()
+comment5.params=p1\ p2
+comment5.target=int\ compare(Pizza,\ Pizza)
+comment6.params=
+comment6.target=void\ afisarePizza()
+comment7.params=
+comment7.target=void\ afisareProsciuto()
+numComments=8
